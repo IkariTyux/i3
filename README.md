@@ -1,11 +1,11 @@
 # Dotfiles
 
-## Programs needed
+## Programs used
 - i3
 - polybar
+- nitrogen
 - rofi
 - kitty
-- nitrogen
 - fastfetch
 - [betterlockscreen](https://github.com/betterlockscreen/betterlockscreen)
 
@@ -15,4 +15,4 @@
 - **Icons**: Tokyonight ![Gnome Store](https://www.gnome-look.org/p/1681475)
 - **Terminal**: Tokyonight Storm ![kitty](https://github.com/davidmathers/tokyo-night-kitty-theme) **/** ![alacritty](https://github.com/zatchheems/tokyo-night-alacritty-theme)
 
-![rice](.github_img/screenshots/rice.png)
+![rice](.github_img/rice.png)
